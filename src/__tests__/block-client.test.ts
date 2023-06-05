@@ -1,4 +1,4 @@
-import { BlockClient } from "../block-client";
+import { BlockClient } from "../index";
 
 const client = new BlockClient("http://localhost:3000");
 

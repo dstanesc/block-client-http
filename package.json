@@ -1,6 +1,6 @@
 {
   "name": "@dstanesc/block-client-http",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple client for block-service",
   "repository": "https://github.com/dstanesc/block-client.git",
   "type": "module",
